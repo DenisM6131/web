@@ -1,0 +1,19 @@
+body {
+    background-color:lightyellow;
+}
+h1 {
+    text-align: center;
+    color:darkred;
+}
+
+h2 {
+    text-align: center;
+    color:darkred;
+}
+.uppercaseText {
+    text-transform: uppercase;
+}
+
+.italic {
+    font-style: italic;
+}
